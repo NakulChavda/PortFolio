@@ -1,7 +1,10 @@
+
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
 #navi{
   background-color: #ff4c68;
 
-  font-family: 'Ubuntu', sans-serif;
 
   padding: 3%;
   color: #fff;
@@ -22,10 +25,9 @@
   text-align: center;
 
   background-color: #ff4c68;
-  font-family: 'Montserrat', sans-serif;
   color: #fff;
 
-  padding: 15% 15% 30%;
+  padding: 0% 0% 20%;
 }
 
 h1{
@@ -43,7 +45,6 @@ h2{
 }
 
 .section-head{
-  font-family: 'Roboto Condensed', sans-serif;
   font-weight: 400;
 }
 
@@ -118,9 +119,8 @@ h2{
 
 #contact{
   background-color: #ff4c68;
-  padding: 10% 15%;
+  padding: 0% 15%;
   color: #fff;
-  font-family: 'Ubuntu', sans-serif;
   text-align: center;
 }
 
@@ -134,4 +134,49 @@ h2{
 
 .logo-fa:hover{
   color: #000;
+}
+
+.intro-imgs{
+  margin-top: 5%;
+
+}
+.profile-img{
+  width: 15%;
+  margin-left: 10%;
+}
+
+.name{
+  font-size: 3.5rem;
+}
+
+.first-name{
+  color: black;
+}
+
+.subpage-img{
+  width: 50%;
+  margin-top:5%;
+
+}
+.subpage{
+  text-align: center;
+  background-color: #30D5C8;
+}
+.subsubpage-img{
+  width:30%;
+}
+.proj-desc{
+
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.subpage-img-vox{
+  width: 70%;
+  margin-top: 10%;
+
+}
+
+.nav-link{
+  font-size: 1.25rem;
 }
