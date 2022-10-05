@@ -172,11 +172,20 @@ h2{
 }
 
 .subpage-img-vox{
-  width: 70%;
+  width: 50%;
   margin-top: 10%;
 
 }
 
 .nav-link{
   font-size: 1.25rem;
+}
+
+.mainpage{
+  background-color: #ff4c68;
+}
+
+.voxpop-desc{
+  margin-left: 20%;
+  margin-right: 20%;
 }
